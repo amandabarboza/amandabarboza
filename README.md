@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![1969px-Laravel svg](https://github.com/amandabarboza/amandabarboza/assets/71797931/71f81793-84e2-447c-b2a9-1afe379279c5)
+
+
 <!--
 **amandabarboza/amandabarboza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
