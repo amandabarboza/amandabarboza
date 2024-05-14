@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![1969px-Laravel svg](https://github.com/amandabarboza/amandabarboza/assets/71797931/71f81793-84e2-447c-b2a9-1afe379279c5)
+<img src="/assets/71797931/71f81793-84e2-447c-b2a9-1afe379279c5" width="50px">
 
 
 <!--
