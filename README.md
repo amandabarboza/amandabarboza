@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="assets/71797931/71f81793-84e2-447c-b2a9-1afe379279c5" width="50px">
+<img src="[assets/71797931/71f81793-84e2-447c-b2a9-1afe379279c5](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png)" width="50px">
 <img src=" https://github.com/amandabarboza/amandabarboza/assets/71797931/5ce5fe0e-60f5-49fd-89dc-298863344aa8" width="15px"/>
 
 
