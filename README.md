@@ -8,7 +8,7 @@ Welcome to my profile! I'm Amanda, a budding developer eager to master the ways 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandabarboza&layout=compact)](https://github.com/amandabarboza/github-readme-stats)
 
 
-![GIF](https://media.giphy.com/media/3o7btW5WLh6dED94fK/giphy.gif)
+<img src="https://media1.tenor.com/m/zz-EbWLyy4wAAAAd/star-wars-rebels-darth-vader-gif-star-wars.gif" />
 
 ## Technologies and Tools I Love
 <div style="display: flex;">
