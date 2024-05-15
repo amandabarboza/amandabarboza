@@ -1,4 +1,4 @@
-# Hey there, young padawan! 🌟
+# Hey there, young padawan! 🌟 <img src="https://png.pngtree.com/png-vector/20220621/ourmid/pngtree-darth-vader-movie-character-png-image_5154238.png" width="15px"/>
 Welcome to my profile! I'm Amanda, a budding developer eager to master the ways of coding. If you're here, you're probably looking for some code or insights into my journey as a junior developer. Either way, you're in the right place!
 
 🚀 Full Stack Developer | 💻 Tech Enthusiast | 🌱 Lifelong Learner
