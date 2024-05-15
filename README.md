@@ -1,5 +1,5 @@
 # Hey there, young padawan! 🌟
-Welcome to my profile! I'm Amanda, a developer by day, Jedi in training by night. If you're here, you're probably looking for some code or a good lightsaber duel. Either way, you're in the right place!
+Welcome to my profile! I'm Amanda, a budding developer eager to master the ways of coding. If you're here, you're probably looking for some code or insights into my journey as a junior developer. Either way, you're in the right place!
 
 🚀 Full Stack Developer | 💻 Tech Enthusiast | 🌱 Lifelong Learner
 
