@@ -1,4 +1,4 @@
-# Hey there, young padawan! <img src="https://png.pngtree.com/png-vector/20220621/ourmid/pngtree-darth-vader-movie-character-png-image_5154238.png" style="top: 8px!important;position: relative!important;" width="40px"/> 🌟
+# Hey there, young padawan! <img src="https://png.pngtree.com/png-vector/20220621/ourmid/pngtree-darth-vader-movie-character-png-image_5154238.png" style="top: 8px!important;position: relative!important;" width="40px"/> 
 Welcome to my profile! I'm Amanda, a budding developer eager to master the ways of coding. If you're here, you're probably looking for some code or insights into my journey as a junior developer. Either way, you're in the right place!
 
 🚀 Full Stack Developer | 💻 Tech Enthusiast | 🌱 Lifelong Learner
@@ -7,6 +7,11 @@ Welcome to my profile! I'm Amanda, a budding developer eager to master the ways 
 - 🎓 Education: Trained in the ways of the Code Force
 - 💼 Currently working on: Mastering new skills and conquering bugs
 - 🌍 Location: A galaxy far, far away (or maybe just Brazil <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsgTmsb6oS0d7NlBHoKH6FLjyhck2Avk-mM9u2uY9uHg&s" width="15px"/>)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandabarboza&layout=compact)](https://github.com/amandabarboza/github-readme-stats)
+
+
+![GIF](https://media.giphy.com/media/3o7btW5WLh6dED94fK/giphy.gif)
 
 ## Technologies and Tools I Love
 <div style="display: flex;">
