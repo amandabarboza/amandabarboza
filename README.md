@@ -26,7 +26,8 @@ Feel free to reach out and connect with me:
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amandabarboza)
 
 </div>
-
+--
+✨ "Your focus determines your reality." —Qui-Gon Jinn, Star Wars Episode I: The Phantom Menace ✨
 
 <!--
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
