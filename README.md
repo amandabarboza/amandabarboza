@@ -6,7 +6,7 @@ Welcome to my profile! I'm Amanda, a budding developer eager to master the ways 
 ## About Me
 - 🎓 Education: Trained in the ways of the Code Force
 - 💼 Currently working on: Mastering new skills and conquering bugs
-- 🌍 Location: A galaxy far, far away (or maybe just Brazil)
+- 🌍 Location: A galaxy far, far away (or maybe just Brazil 🇧🇷)
 
 ## Technologies and Tools I Love
 <div style="display: flex;">
