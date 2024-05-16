@@ -1,6 +1,6 @@
 <div align="center" style="font-family: 'Roboto', sans-serif;">
   
-  img src="https://github.com/amandabarboza/amandabarboza/assets/71797931/73c9d32a-cd95-4d08-a5a2-0282a7fcd1e6" />
+![Vanilla@1x-1 5s-275px-29px (1)](https://github.com/amandabarboza/amandabarboza/assets/71797931/b06f63ef-9ea5-45c3-9d6e-4f08b6dead11)
 
   <img src="https://png.pngtree.com/png-vector/20220621/ourmid/pngtree-darth-vader-movie-character-png-image_5154238.png" width="30px" alt="Darth Vader" />  
     
