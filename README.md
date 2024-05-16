@@ -4,6 +4,9 @@
   <p>
     Full Stack Developer | Brazilian <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png" width="20px" alt="Brazilian Flag">
   </p>
+  
+  ![Vanilla@1x-4 2s-259px-29px](https://github.com/amandabarboza/amandabarboza/assets/71797931/c8563465-497c-46c8-a038-78482e6ce856)
+
 </div>
 
 
