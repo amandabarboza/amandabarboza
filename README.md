@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hey there, young padawan! <img src="https://png.pngtree.com/png-vector/20220621/ourmid/pngtree-darth-vader-movie-character-png-image_5154238.png" width="80px" alt="Darth Vader"></h1>
+  <h1>Hey there, young padawan! <img src="https://png.pngtree.com/png-vector/20220621/ourmid/pngtree-darth-vader-movie-character-png-image_5154238.png" width="30px" alt="Darth Vader"></h1>
   
   <p>
     🚀 Full Stack Developer | 💻 Tech Enthusiast | 🌱 Lifelong Learner
