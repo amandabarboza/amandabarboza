@@ -1,12 +1,15 @@
 <div align="center" style="font-family: 'Roboto', sans-serif;">
-  <h3> < Hi, I am Amanda <img src="https://png.pngtree.com/png-vector/20220621/ourmid/pngtree-darth-vader-movie-character-png-image_5154238.png" width="30px" alt="Darth Vader"> /> </h3>
+  <h3>
+    
+    ![Vanilla@1x-1 5s-275px-29px (1)](https://github.com/amandabarboza/amandabarboza/assets/71797931/ecc2d898-9d6b-4a87-9e30-5109dc5564db)
+    
+    <img src="https://png.pngtree.com/png-vector/20220621/ourmid/pngtree-darth-vader-movie-character-png-image_5154238.png" width="30px" alt="Darth Vader"> /> </h3>
     
   <p>
     Full Stack Developer | Brazilian <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png" width="20px" alt="Brazilian Flag">
   </p>
   
 
-![Vanilla@1x-1 5s-275px-29px (1)](https://github.com/amandabarboza/amandabarboza/assets/71797931/ecc2d898-9d6b-4a87-9e30-5109dc5564db)
 
   ![Vanilla@1x-4 2s-259px-29px](https://github.com/amandabarboza/amandabarboza/assets/71797931/c8563465-497c-46c8-a038-78482e6ce856)
 
