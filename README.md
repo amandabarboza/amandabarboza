@@ -3,11 +3,8 @@
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github.com/amandabarboza/amandabarboza/assets/71797931/a55ae064-55de-4073-badd-a0e68eca81b9" />
   <img src="https://png.pngtree.com/png-vector/20220621/ourmid/pngtree-darth-vader-movie-character-png-image_5154238.png" width="30px" alt="Darth Vader" />  
-  <img src="https://github.com/amandabarboza/amandabarboza/assets/" />
+  <img src="https://github.com/amandabarboza/amandabarboza/assets/71797931/0d0a7e57-2f6d-4414-a5cf-a655a43a64ea" />
 </div>
-
-![Vanilla@1x-1 5s-34px-29px](https://github.com/amandabarboza/amandabarboza/assets/71797931/0d0a7e57-2f6d-4414-a5cf-a655a43a64ea)
-
   <p>
     Full Stack Developer | Brazilian <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png" width="20px" alt="Brazilian Flag">
   </p>
