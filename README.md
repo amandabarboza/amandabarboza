@@ -48,7 +48,15 @@
 
 </div>
 
-✨ "Your focus determines your reality." —Qui-Gon Jinn, Star Wars Episode I: The Phantom Menace ✨
+<div style="background-color: #f4f4f4; border: 2px solid #ccc; border-radius: 10px; padding: 20px;">
+  <div style="text-align: center; font-size: 18px; font-style: italic; color: #555;">
+    <p>
+      ✨ "Your focus determines your reality." ✨<br>
+      — Qui-Gon Jinn, Star Wars Episode I: The Phantom Menace
+    </p>
+  </div>
+</div>
+
 
 <!--
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
