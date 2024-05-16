@@ -4,7 +4,11 @@
   <img src="https://github.com/amandabarboza/amandabarboza/assets/71797931/b06f63ef-9ea5-45c3-9d6e-4f08b6dead11" />
 
   <img src="https://png.pngtree.com/png-vector/20220621/ourmid/pngtree-darth-vader-movie-character-png-image_5154238.png" width="30px" alt="Darth Vader" />  
+
+  ![Vanilla@1x-1 5s-275px-29px (2)](https://github.com/amandabarboza/amandabarboza/assets/71797931/8ac370c0-ebe0-4e2d-b6f2-d62f6c691bef)
+  
   </div>
+
   <p>
     Full Stack Developer | Brazilian <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png" width="20px" alt="Brazilian Flag">
   </p>
