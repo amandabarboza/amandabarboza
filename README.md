@@ -14,13 +14,18 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-barboza-dev/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amandabarboza)
 
-<img src="https://github.com/amandabarboza/amandabarboza/assets/71797931/638de5f2-14b8-40c1-bb15-9270e17c6b37" width="400">
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandabarboza&layout=compact)](https://github.com/amandabarboza/github-readme-stats)
-
-
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/amandabarboza/amandabarboza/assets/71797931/638de5f2-14b8-40c1-bb15-9270e17c6b37" width="400">
+    </td>
+    <td>
+      <a href="https://github.com/amandabarboza/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandabarboza&layout=compact">
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
