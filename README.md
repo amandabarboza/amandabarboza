@@ -1,5 +1,5 @@
 <div align="center" style="font-family: 'Roboto', sans-serif;">
-  <div>
+  <div align="center">
     
   <img src="https://github.com/amandabarboza/amandabarboza/assets/71797931/b06f63ef-9ea5-45c3-9d6e-4f08b6dead11" />
 
