@@ -2,7 +2,7 @@
   <h3 style="font-family: 'Courier New', monospace;"> Hi, I am Amanda <img src="https://png.pngtree.com/png-vector/20220621/ourmid/pngtree-darth-vader-movie-character-png-image_5154238.png" width="30px" alt="Darth Vader"> /> </h3>
   
   <p>
-    Full Stack Developer | Brazilian <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png" width="30px" alt="Brazilian Flag">
+    Full Stack Developer | Brazilian <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png" width="20px" alt="Brazilian Flag">
   </p>
 </div>
 
