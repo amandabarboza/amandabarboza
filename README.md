@@ -5,6 +5,9 @@
   <img src="https://png.pngtree.com/png-vector/20220621/ourmid/pngtree-darth-vader-movie-character-png-image_5154238.png" width="30px" alt="Darth Vader" />  
   <img src="https://github.com/amandabarboza/amandabarboza/assets/71797931/70af57cc-2c65-46ba-ac0e-ea222b038f80" />
 
+
+![Vanilla@1x-1 5s-203px-29px](https://github.com/amandabarboza/amandabarboza/assets/71797931/a55ae064-55de-4073-badd-a0e68eca81b9)
+
 </div>
 
 
