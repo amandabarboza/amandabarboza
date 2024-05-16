@@ -1,9 +1,7 @@
 <div align="center" style="font-family: 'Roboto', sans-serif;">
   <h3> < Hi, I am Amanda <img src="https://png.pngtree.com/png-vector/20220621/ourmid/pngtree-darth-vader-movie-character-png-image_5154238.png" width="30px" alt="Darth Vader"> /> </h3>
-    
-  <div align="center">
-    <img src="title.svg" width="400" height="400" alt="css-in-readme">
-</div>
+
+
 
     
   <p>
