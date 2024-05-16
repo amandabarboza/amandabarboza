@@ -9,7 +9,7 @@ Welcome to my profile! I'm Amanda, a budding developer eager to master the ways 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandabarboza&layout=compact)](https://github.com/amandabarboza/github-readme-stats)
 
-![Snake animation](https://github.com/amandabarboza/amandabarboza/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/amandabarboza/blob/output/github-contribution-grid-snake.svg)
 
 <div style="display: flex;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" width="50px"/>
