@@ -59,7 +59,7 @@
 
 </div>
 
-<div align="center" style="background-color: #f4f4f4; border: 2px solid #ccc; border-radius: 10px; padding: 20px;">
+<div align="left" style="background-color: #f4f4f4; border: 2px solid #ccc; border-radius: 10px; padding: 20px;">
   <div style="text-align: center; font-size: 18px; font-style: italic; color: #555;">
     <p>
       ✨ "Your focus determines your reality." ✨<br>
