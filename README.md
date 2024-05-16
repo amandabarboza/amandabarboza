@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="font-family: 'Consolas', 'Courier New', monospace;">
   <h3 style="font-family: 'Consolas', 'Courier New', monospace;"> Hi, I am Amanda <img src="https://png.pngtree.com/png-vector/20220621/ourmid/pngtree-darth-vader-movie-character-png-image_5154238.png" width="30px" alt="Darth Vader"> /> </h3>
   
   <p>
