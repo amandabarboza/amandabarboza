@@ -2,7 +2,7 @@
 
 🚀 Full Stack Developer | 💻 Tech Enthusiast | 🌱 Lifelong Learner
 
-<div style="display: flex;">
+<div style="display: flex; justify-content: center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" width="30px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="30px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="30px"/>
