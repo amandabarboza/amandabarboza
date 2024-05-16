@@ -37,7 +37,7 @@
   </a>
 </p>
 
-<table>
+<table align="center">
   <tr>
     <td>
       <img src="https://github.com/amandabarboza/amandabarboza/assets/71797931/638de5f2-14b8-40c1-bb15-9270e17c6b37" width="300">
