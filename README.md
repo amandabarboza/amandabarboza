@@ -1,9 +1,8 @@
 <div align="center" style="font-family: 'Roboto', sans-serif;">
-  <h3>
-    
-    <img src="https://png.pngtree.com/png-vector/20220621/ourmid/pngtree-darth-vader-movie-character-png-image_5154238.png" width="30px" alt="Darth Vader">  
-    
-    </h3>
+  
+    ![Vanilla@1x-1 5s-275px-29px (1)](https://github.com/amandabarboza/amandabarboza/assets/71797931/73c9d32a-cd95-4d08-a5a2-0282a7fcd1e6)
+
+    <img src="https://png.pngtree.com/png-vector/20220621/ourmid/pngtree-darth-vader-movie-character-png-image_5154238.png" width="30px" alt="Darth Vader"/>  
     
   <p>
     Full Stack Developer | Brazilian <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png" width="20px" alt="Brazilian Flag">
