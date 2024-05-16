@@ -23,6 +23,7 @@
     
 </div>
 
+<br/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amanda-barboza-dev/">
