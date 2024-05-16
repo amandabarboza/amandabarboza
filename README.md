@@ -8,12 +8,8 @@ Welcome to my profile! I'm Amanda, a budding developer eager to master the ways 
 - 🌍 Location: A galaxy far, far away (or maybe just Brazil <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsgTmsb6oS0d7NlBHoKH6FLjyhck2Avk-mM9u2uY9uHg&s" width="15px"/>)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandabarboza&layout=compact)](https://github.com/amandabarboza/github-readme-stats)
+![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
 
-
-
-<img src="https://64.media.tumblr.com/ae8cffe4abbe803c65291b03603e73be/2af3a066c13d3323-fa/s640x960/809b85d4d7334a5193f7008f7524b669c9375777.gif" width="30px" />
-
-## Technologies and Tools I Love
 <div style="display: flex;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" width="50px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="50px"/>
