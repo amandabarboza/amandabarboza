@@ -40,7 +40,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/amandabarboza/amandabarboza/assets/71797931/638de5f2-14b8-40c1-bb15-9270e17c6b37" width="400">
+      <img src="https://github.com/amandabarboza/amandabarboza/assets/71797931/638de5f2-14b8-40c1-bb15-9270e17c6b37" width="300">
     </td>
     <td>
       <a href="https://github.com/amandabarboza/github-readme-stats">
