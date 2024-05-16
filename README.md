@@ -2,26 +2,14 @@
 
 🚀 Full Stack Developer | 💻 Tech Enthusiast | 🌱 Lifelong Learner
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-barboza-dev/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amandabarboza)
+
 <img src="https://github.com/amandabarboza/amandabarboza/assets/71797931/638de5f2-14b8-40c1-bb15-9270e17c6b37" width="400">
 
-- 🌍 Location: A galaxy far, far away (or maybe just Brazil <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsgTmsb6oS0d7NlBHoKH6FLjyhck2Avk-mM9u2uY9uHg&s" width="15px"/>)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandabarboza&layout=compact)](https://github.com/amandabarboza/github-readme-stats)
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/amandabarboza/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/amandabarboza/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/amandabarboza/output/github-contribution-grid-snake.svg"
-  />
-</picture>
 
 <div style="display: flex;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" width="50px"/>
@@ -32,12 +20,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" width="50px"/>
 </div>
 
-## Let's Connect!
-Feel free to reach out and connect with me:
-<div>
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-barboza-dev/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amandabarboza)
+
 
 </div>
 
