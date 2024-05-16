@@ -9,7 +9,7 @@ Welcome to my profile! I'm Amanda, a budding developer eager to master the ways 
 
 
 
-<img src="https://64.media.tumblr.com/ae8cffe4abbe803c65291b03603e73be/2af3a066c13d3323-fa/s640x960/809b85d4d7334a5193f7008f7524b669c9375777.gif" width="300px" />
+<img src="https://64.media.tumblr.com/ae8cffe4abbe803c65291b03603e73be/2af3a066c13d3323-fa/s640x960/809b85d4d7334a5193f7008f7524b669c9375777.gif" width="30px" />
 
 </div>
 
