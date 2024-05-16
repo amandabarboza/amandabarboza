@@ -1,6 +1,11 @@
-# Hey there, young padawan! <img src="https://png.pngtree.com/png-vector/20220621/ourmid/pngtree-darth-vader-movie-character-png-image_5154238.png" style="top: 8px!important;position: relative!important;" width="40px"/> 
+<div align="center">
+  <h1>Hey there, young padawan!</h1>
+  <img src="https://png.pngtree.com/png-vector/20220621/ourmid/pngtree-darth-vader-movie-character-png-image_5154238.png" width="80px" alt="Darth Vader">
+  <p>
+    🚀 Full Stack Developer | 💻 Tech Enthusiast | 🌱 Lifelong Learner
+  </p>
+</div>
 
-🚀 Full Stack Developer | 💻 Tech Enthusiast | 🌱 Lifelong Learner
 
 <table align="center">
   <tr>
