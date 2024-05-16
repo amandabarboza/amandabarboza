@@ -7,6 +7,7 @@ Welcome to my profile! I'm Amanda, a budding developer eager to master the ways 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandabarboza&layout=compact)](https://github.com/amandabarboza/github-readme-stats)
 
+![tumblr_ae8cffe4abbe803c65291b03603e73be_809b85d4_640](https://github.com/amandabarboza/amandabarboza/assets/71797931/638de5f2-14b8-40c1-bb15-9270e17c6b37)
 
 
 <img src="https://64.media.tumblr.com/ae8cffe4abbe803c65291b03603e73be/2af3a066c13d3323-fa/s640x960/809b85d4d7334a5193f7008f7524b669c9375777.gif" width="30px" />
