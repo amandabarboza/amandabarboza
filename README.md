@@ -5,8 +5,9 @@ Welcome to my profile! I'm Amanda, a budding developer eager to master the ways 
 
 - 🌍 Location: A galaxy far, far away (or maybe just Brazil <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsgTmsb6oS0d7NlBHoKH6FLjyhck2Avk-mM9u2uY9uHg&s" width="15px"/>)
 <div style="display: flex">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandabarboza&layout=compact)](https://github.com/amandabarboza/github-readme-stats)
+  <div>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandabarboza&layout=compact)](https://github.com/amandabarboza/github-readme-stats)
+</div>
 
 
 <img src="https://media1.tenor.com/m/zz-EbWLyy4wAAAAd/star-wars-rebels-darth-vader-gif-star-wars.gif" width="300px" />
