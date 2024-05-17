@@ -7,11 +7,11 @@
 </div>
   <p>
     
-<img src="https://github.com/amandabarboza/amandabarboza/assets/71797931/011e436c-79b8-48e8-b6fc-a03099152967" width="30"/>
+<img src="https://github.com/amandabarboza/amandabarboza/assets/71797931/011e436c-79b8-48e8-b6fc-a03099152967" width="180"/>
 
-  <img src="https://github.com/amandabarboza/amandabarboza/assets/71797931/06166f15-0b3f-4f92-9bca-fdd161b97526" width="30" />
+  <img src="https://github.com/amandabarboza/amandabarboza/assets/71797931/06166f15-0b3f-4f92-9bca-fdd161b97526" width="90" />
 
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png" width="20px" alt="Brazilian Flag">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png" width="25px" alt="Brazilian Flag">
   </p>
 
 </div>
