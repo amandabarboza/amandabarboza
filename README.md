@@ -6,7 +6,12 @@
   <img src="https://github.com/amandabarboza/amandabarboza/assets/71797931/0d0a7e57-2f6d-4414-a5cf-a655a43a64ea" />
 </div>
   <p>
-    Full Stack Developer | Brazilian <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png" width="20px" alt="Brazilian Flag">
+    
+![FULL_STACK_DE-removebg-preview](https://github.com/amandabarboza/amandabarboza/assets/71797931/011e436c-79b8-48e8-b6fc-a03099152967)
+
+  ![FULL_STACK_DE__1_-removebg-preview-removebg-preview](https://github.com/amandabarboza/amandabarboza/assets/71797931/06166f15-0b3f-4f92-9bca-fdd161b97526)
+
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png" width="20px" alt="Brazilian Flag">
   </p>
 
 </div>
