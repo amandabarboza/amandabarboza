@@ -7,9 +7,9 @@
 </div>
   <p>
     
-![FULL_STACK_DE-removebg-preview](https://github.com/amandabarboza/amandabarboza/assets/71797931/011e436c-79b8-48e8-b6fc-a03099152967)
+<img src="https://github.com/amandabarboza/amandabarboza/assets/71797931/011e436c-79b8-48e8-b6fc-a03099152967" width="30"/>
 
-  ![FULL_STACK_DE__1_-removebg-preview-removebg-preview](https://github.com/amandabarboza/amandabarboza/assets/71797931/06166f15-0b3f-4f92-9bca-fdd161b97526)
+  <img src="https://github.com/amandabarboza/amandabarboza/assets/71797931/06166f15-0b3f-4f92-9bca-fdd161b97526" width="30" />
 
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png" width="20px" alt="Brazilian Flag">
   </p>
