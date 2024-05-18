@@ -11,7 +11,7 @@
 
   <img src="https://github.com/amandabarboza/amandabarboza/assets/71797931/06166f15-0b3f-4f92-9bca-fdd161b97526" width="70" />
 
-   <img src="https://github.com/amandabarboza/amandabarboza/assets/71797931/9c4ed51c-dfb5-483c-8aa9-72b790be4c25" width="31px" alt="Brazilian Flag">
+   <img src="https://github.com/amandabarboza/amandabarboza/assets/71797931/263ddc46-9a2b-4475-be34-c017ecbe3004" width="25px" alt="Brazilian Flag">
 
   </p>
 
