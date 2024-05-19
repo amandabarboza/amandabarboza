@@ -2,15 +2,17 @@
   
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github.com/amandabarboza/amandabarboza/assets/71797931/a55ae064-55de-4073-badd-a0e68eca81b9" />
-  <img src="https://png.pngtree.com/png-vector/20220621/ourmid/pngtree-darth-vader-movie-character-png-image_5154238.png" width="30px" alt="Darth Vader" />  
+  <img src="https://github.com/amandabarboza/amandabarboza/assets/71797931/85b5c058-1419-4137-8f4d-d0dfe8860cd8" width="50px" alt="Darth Vader" />  
   <img src="https://github.com/amandabarboza/amandabarboza/assets/71797931/0d0a7e57-2f6d-4414-a5cf-a655a43a64ea" />
 </div>
 <p>
-    
-  <img src="https://github.com/amandabarboza/amandabarboza/assets/71797931/78acbe53-5caa-4692-8fa8-c9e1fcdc54ef" width="180"/>
-  <img src="https://github.com/amandabarboza/amandabarboza/assets/71797931/310330bd-6e15-450d-b1ef-e3cba1e154ff" width="70" />
-  <img src="https://github.com/amandabarboza/amandabarboza/assets/71797931/263ddc46-9a2b-4475-be34-c017ecbe3004" width="25px" alt="Brazilian Flag">
   
+  <img src="https://github.com/amandabarboza/amandabarboza/assets/71797931/9dc43d03-ff16-4ed5-9350-e50f78c3d670" width="150"/>
+
+  <img src="https://github.com/amandabarboza/amandabarboza/assets/71797931/d2c20019-0958-4256-9f2a-354d04337450" width="65" />
+  <img src="https://github.com/amandabarboza/amandabarboza/assets/71797931/263ddc46-9a2b-4475-be34-c017ecbe3004" width="18px" alt="Brazilian Flag">
+
+
 </p>
 
 </div>
@@ -18,20 +20,20 @@
 
 <div style="display: flex; justify-content: space-between" align="center">
   
-  <img style="margin-right: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" width="30px"/>
+  <img style="margin-right: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" width="20px"/>
   ‎ ‎ 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="30px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="20px"/>
 ‎ ‎ 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="30px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="20px"/>
 ‎ ‎ 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" width="30px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" width="20px"/>
 ‎ ‎ 
-  <img src="https://github.com/amandabarboza/amandabarboza/assets/71797931/49bd040f-cbce-476b-bac2-f57390991bc4" width="30px"/>
+  <img src="https://github.com/amandabarboza/amandabarboza/assets/71797931/49bd040f-cbce-476b-bac2-f57390991bc4" width="20px"/>
 ‎ ‎ 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" width="30px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" width="20px"/>
     
 </div>
-
+<r/>
 <br/>
 
 <p align="center">
