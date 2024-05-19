@@ -7,7 +7,7 @@
 </div>
 <p>
     
-  <img src="https://github.com/amandabarboza/amandabarboza/assets/71797931/1e72abaa-47b6-43ad-8b3d-605f503cc144" width="180"/>
+  <img src="https://github.com/amandabarboza/amandabarboza/assets/71797931/78acbe53-5caa-4692-8fa8-c9e1fcdc54ef" width="180"/>
   <img src="https://github.com/amandabarboza/amandabarboza/assets/71797931/310330bd-6e15-450d-b1ef-e3cba1e154ff" width="70" />
   <img src="https://github.com/amandabarboza/amandabarboza/assets/71797931/263ddc46-9a2b-4475-be34-c017ecbe3004" width="25px" alt="Brazilian Flag">
   
