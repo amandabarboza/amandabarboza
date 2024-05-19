@@ -2,7 +2,7 @@
   
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github.com/amandabarboza/amandabarboza/assets/71797931/a55ae064-55de-4073-badd-a0e68eca81b9" />
-  <img src="https://github.com/amandabarboza/amandabarboza/assets/71797931/85b5c058-1419-4137-8f4d-d0dfe8860cd8" width="50px" alt="Darth Vader" />  
+  <img src="https://github.com/amandabarboza/amandabarboza/assets/71797931/85b5c058-1419-4137-8f4d-d0dfe8860cd8" width="50px" alt="Wall-E" />  
   <img src="https://github.com/amandabarboza/amandabarboza/assets/71797931/0d0a7e57-2f6d-4414-a5cf-a655a43a64ea" />
 </div>
 <p>
