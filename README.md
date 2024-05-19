@@ -5,15 +5,12 @@
   <img src="https://png.pngtree.com/png-vector/20220621/ourmid/pngtree-darth-vader-movie-character-png-image_5154238.png" width="30px" alt="Darth Vader" />  
   <img src="https://github.com/amandabarboza/amandabarboza/assets/71797931/0d0a7e57-2f6d-4414-a5cf-a655a43a64ea" />
 </div>
-  <p>
+<p>
     
-<img src="https://github.com/amandabarboza/amandabarboza/assets/71797931/011e436c-79b8-48e8-b6fc-a03099152967" width="180"/>
-
-  <img src="https://github.com/amandabarboza/amandabarboza/assets/71797931/06166f15-0b3f-4f92-9bca-fdd161b97526" width="70" />
-
-   <img src="https://github.com/amandabarboza/amandabarboza/assets/71797931/263ddc46-9a2b-4475-be34-c017ecbe3004" width="25px" alt="Brazilian Flag">
-
-  </p>
+  <img src="https://github.com/amandabarboza/amandabarboza/assets/71797931/3144cfdc-98bc-4bc7-9301-204fcd3252fb" width="180"/>
+  <img src="https://github.com/amandabarboza/amandabarboza/assets/71797931/310330bd-6e15-450d-b1ef-e3cba1e154ff" width="70" />
+  <img src="https://github.com/amandabarboza/amandabarboza/assets/71797931/263ddc46-9a2b-4475-be34-c017ecbe3004" width="25px" alt="Brazilian Flag">
+</p>
 
 </div>
 
