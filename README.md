@@ -30,7 +30,7 @@
 ‎ ‎ 
   <img src="https://github.com/amandabarboza/amandabarboza/assets/71797931/49bd040f-cbce-476b-bac2-f57390991bc4" width="35"/>
 ‎ ‎ 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" width="35"/>
     
 </div>
 <r/>
