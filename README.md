@@ -20,17 +20,17 @@
 
 <div style="display: flex; justify-content: space-between" align="center">
   
-  <img style="margin-right: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" width="20px"/>
+  <img style="margin-right: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" width="40px"/>
   ‎ ‎ 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="20px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="40"/>
 ‎ ‎ 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="20px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40"/>
 ‎ ‎ 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" width="20px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" width="40"/>
 ‎ ‎ 
-  <img src="https://github.com/amandabarboza/amandabarboza/assets/71797931/49bd040f-cbce-476b-bac2-f57390991bc4" width="20px"/>
+  <img src="https://github.com/amandabarboza/amandabarboza/assets/71797931/49bd040f-cbce-476b-bac2-f57390991bc4" width="40"/>
 ‎ ‎ 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" width="20px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" width="40"/>
     
 </div>
 <r/>
