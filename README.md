@@ -5,14 +5,13 @@
   <img src="https://github.com/amandabarboza/amandabarboza/assets/71797931/85b5c058-1419-4137-8f4d-d0dfe8860cd8" width="50px" alt="Wall-E" />  
   <img src="https://github.com/amandabarboza/amandabarboza/assets/71797931/0d0a7e57-2f6d-4414-a5cf-a655a43a64ea" />
 </div>
-<p>
+<div>
   
   Software Developer 
 
   <img src="https://github.com/amandabarboza/amandabarboza/assets/71797931/263ddc46-9a2b-4475-be34-c017ecbe3004" width="18px" alt="Brazilian Flag">
 
-
-</p>
+</div>
 
 </div>
 
