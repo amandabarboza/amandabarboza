@@ -34,11 +34,13 @@
 <r/>
 <br/>
 
-  <a href="https://github.com/amandabarboza">
+
+ <!-- <a href="https://github.com/amandabarboza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandabarboza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandabarboza&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+</div> 
+-->
 
 
 <p align="center">
