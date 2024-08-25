@@ -34,6 +34,23 @@
 <r/>
 <br/>
 
+  <a href="https://github.com/amandabarboza">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandabarboza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandabarboza&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+
+<p align="center">
+  <a href="https://github.com/amandabarboza">
+    <img
+      align="center"
+      src="https://github-profile-trophy.vercel.app/?username=amandabarboza&theme=tokyonight&no-frame=true&row=1&&margin-w=20&no-bg=true"
+    />
+  </a>
+  </a>
+</p>
+
 
 
 <table align="center">
