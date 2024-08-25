@@ -38,10 +38,11 @@
  <!-- <a href="https://github.com/amandabarboza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandabarboza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandabarboza&layout=compact&langs_count=7&theme=tokyonight"/>
+  
 </div> 
 -->
 
+<!-- 
 
 <p align="center">
   <a href="https://github.com/amandabarboza">
@@ -52,7 +53,7 @@
   </a>
   </a>
 </p>
-
+-->
 
 
 <table align="center">
@@ -62,8 +63,7 @@
     </td>
     <td>
       <a href="https://github.com/amandabarboza/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandabarboza&layout=compact">
-      </a>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandabarboza&layout=compact&langs_count=7&theme=tokyonight"/>
     </td>
   </tr>
 </table>
