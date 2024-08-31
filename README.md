@@ -63,11 +63,12 @@
     </td>
     <td>
       <a href="https://github.com/amandabarboza/github-readme-stats">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandabarboza&layout=compact&langs_count=9&theme=tokyonight"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandabarboza&layout=compact&hide=css,scss,html,gap,shaderlab,hlsl,objectivec&langs_count=6&theme=tokyonight"/>
       </a>
     </td>
   </tr>
 </table>
+
 
 
 
