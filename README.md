@@ -64,6 +64,7 @@
     <td>
       <a href="https://github.com/amandabarboza/github-readme-stats">
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandabarboza&layout=compact&langs_count=9&theme=tokyonight"/>
+      </a>
     </td>
   </tr>
 </table>
