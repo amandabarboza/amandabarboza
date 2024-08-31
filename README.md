@@ -56,18 +56,13 @@
 -->
 
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github.com/amandabarboza/amandabarboza/assets/71797931/638de5f2-14b8-40c1-bb15-9270e17c6b37" width="300">
-    </td>
-    <td>
-      <a href="https://github.com/amandabarboza/github-readme-stats">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandabarboza&layout=compact&hide=css,scss,html,gap,shaderlab,hlsl,objectivec&langs_count=6&theme=tokyonight"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+<img src="https://github.com/amandabarboza/amandabarboza/assets/71797931/638de5f2-14b8-40c1-bb15-9270e17c6b37" width="35%">
+  <a>
+    <img width=24%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandabarboza&langs_count=6&hide=css,scss,html,gap&exclude_repo=&game-zombie-life&theme=tokyonight"/>
+  </a>
+</div>
+
 
 
 
