@@ -9,7 +9,7 @@
 <img sr c="https://github.com/amandabarboza/amandabarboza/assets/71797931/0d0a7e57-2f6d-4414-a5cf-a655a43a64ea" width="29" /> 
 </div>
 
-<span style="font-family: Arial, sans-serif; font-size: 16px; color: #2c3e50;"> **Software Developer** </span>
+<span style="font-family: Arial, sans-serif; font-size: 16px; color: #2c3e50;"> Amanda Barboza | **Software Developer** </span>
 <img src="https://github.com/amandabarboza/amandabarboza/assets/71797931/263ddc46-9a2b-4475-be34-c017ecbe3004" width="18px" alt="Brazilian Flag" style="margin-left: 10px; vertical-align: middle;">
 
 
