@@ -9,13 +9,13 @@
 
 <br/><br/>
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandabarboza&layout=compact&langs_count=6&hide=css,scss,html,gap&custom_title=Languages%20%2F%20Langages&theme=tokyonight&bg_color=0D1117&title_color=7AA2F7&text_color=C0CAF5&hide_border=true&border_radius=12&card_width=420" width="420" alt="Most used languages / Langages les plus utilisés" />
+    <td width="50%" align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandabarboza&layout=compact&langs_count=6&hide=css,scss,html,gap&custom_title=Languages%20%2F%20Langages&theme=tokyonight&bg_color=0D1117&title_color=7AA2F7&text_color=C0CAF5&hide_border=true&border_radius=12&card_width=420" width="100%" alt="Most used languages / Langages les plus utilisés" />
     </td>
-    <td align="center" valign="middle">
-      <img src="https://i.pinimg.com/originals/35/d5/54/35d554f31bd87bf3f5097830af38332b.gif" width="340" alt="Hands typing on a laptop with a green terminal" />
+    <td width="50%" align="center" valign="middle">
+      <img src="https://i.pinimg.com/originals/35/d5/54/35d554f31bd87bf3f5097830af38332b.gif" width="100%" alt="Hands typing on a laptop with a green terminal" />
     </td>
   </tr>
 </table>
