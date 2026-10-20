@@ -9,11 +9,16 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandabarboza&layout=compact&langs_count=6&hide=css,scss,html,gap&custom_title=Languages%20%2F%20Langages&theme=tokyonight&bg_color=0D1117&title_color=7AA2F7&text_color=C0CAF5&hide_border=true&border_radius=12&card_width=420" alt="Most used languages / Langages les plus utilisés" />
-
-<br/><br/>
-
-<img src="assets/terminal.webp" width="360" alt="Hands typing on a laptop with a green terminal" />
+<table>
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandabarboza&layout=compact&langs_count=6&hide=css,scss,html,gap&custom_title=Languages%20%2F%20Langages&theme=tokyonight&bg_color=0D1117&title_color=7AA2F7&text_color=C0CAF5&hide_border=true&border_radius=12&card_width=420" width="420" alt="Most used languages / Langages les plus utilisés" />
+    </td>
+    <td align="center" valign="middle">
+      <img src="assets/terminal.gif" width="340" alt="Hands typing on a laptop with a green terminal" />
+    </td>
+  </tr>
+</table>
 
 > ✨ *"The world is not in your books and maps, it's out there."* ✨
 > — Gandalf, The Hobbit: An Unexpected Journey
