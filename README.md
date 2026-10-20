@@ -5,8 +5,6 @@
 
 ### Full-Stack Developer · Développeuse Full Stack 🇧🇷
 
-Laravel · JavaScript · TypeScript · React · React Native
-
 <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,nextjs,supabase,mysql,vercel,git" alt="Tech stack" />
 
 <br/><br/>
